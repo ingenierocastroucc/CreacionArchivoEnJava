@@ -83,7 +83,6 @@ public class Archivos {
                     salida.println("Fin de contenido nuevo");
                     salida.close();
                     System.out.println("\nSe a agreado contenido nuevo correctamente");
-
                 }
                     catch(IOException e){
                     e.printStackTrace();
